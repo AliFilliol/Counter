@@ -1,0 +1,39 @@
+.title{
+    background-color: rgb(66, 106, 116);
+    color: rgb(28, 84, 158);
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.clock-wrapper{
+    background-color:rgb(146, 211, 25);
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.clock {
+    font-size: 270px;
+    padding: 10px;
+    margin: 0px;
+}
+
+#date {
+    font-size: 50px;
+    padding: 0px;
+}
+
+.countdown{
+    background-color: rgb(26, 160, 55);
+    color: rgb(43, 19, 150);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.timer {
+    font-size: 150px;
+}
